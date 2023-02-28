@@ -1,0 +1,6 @@
+[submodule "medialpha-backend"]
+	path = medialpha-backend
+	url = https://github.com/xiaolongliu98/medialpha-backend.git
+[submodule "medialpha-frontend"]
+	path = medialpha-frontend
+	url = https://github.com/xiaolongliu98/medialpha-frontend.git
